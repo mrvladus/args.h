@@ -14,8 +14,6 @@
   - **Floats** (`--pi 3.14159`, `--pi=3.14159`)
   - **Strings** (`--name John`, `--name "John Smith"`, `--name="John Smith"`)
 - Multiple aliases for the same argument: `-h|--help|help`
-- Minimal dependencies (just the C standard library)
-- Works in both **C** and **C++**
 
 ## Usage
 
